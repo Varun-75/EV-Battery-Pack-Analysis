@@ -15,3 +15,4 @@ Designed and analyzed a 16S1P LiFePO4 battery pack with BMS integration. Perform
 - Excel
 
 ## Dashboard Preview
+<img width="1278" height="722" alt="image" src="https://github.com/user-attachments/assets/2242d57e-dab2-4ffd-916e-ab734294dc6b" />
